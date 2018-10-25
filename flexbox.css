@@ -1,0 +1,11 @@
+.progress-presos {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.progress-presos p {
+    text-align: center;
+    max-width: 200px;
+}
